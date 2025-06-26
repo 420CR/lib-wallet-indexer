@@ -23,7 +23,7 @@
     "fastify": "^4.28.0",
     "web3": "^4.10.0",
     "ws": "^8.18.0",
-    "tronweb": "6.0.0"
+    "tronweb": "6.0.3"
   },
   "devDependencies": {
     "brittle": "^3.5.2",
